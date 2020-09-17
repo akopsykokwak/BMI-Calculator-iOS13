@@ -3,7 +3,7 @@
 
 BMI Calculator, different advices and colors according to your BMI.
 
-![BMI](https://i.postimg.cc/sDJRx2bz/ezgif-com-video-to-gif-1.gif)
+![BMI](https://i.postimg.cc/W48D7jDc/ezgif-com-video-to-gif-2.gif)
 
 ## Goal
 
